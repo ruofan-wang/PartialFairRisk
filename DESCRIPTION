@@ -1,11 +1,10 @@
 Package: PartialFairRisk
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Assessing algorithm fairness with partially labeled EHR using aTPR
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Ruofan Wang
+Maintainer: The package maintainer <ppeanutsss@gmail.com>
+Description: By inputting more information about the covariates, the method takes into account of those misssing labels by assigning proper probability.
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
